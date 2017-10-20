@@ -1,2 +1,2 @@
 # EssentialsAFKListener
-Run custom commands on Essentials AFK events
+Run custom commands on Essentials AFK Change Event
