@@ -1,6 +1,6 @@
 name: EssentialsAFKListener
 version: 1.0.0
 author: jonthesquirrel
-main: io.github.jonthesquirrel.essentialsafklistener.Main
+main: io.github.jonthesquirrel.essentialsafklistener.EssentialsAFKListener
 depend: [Essentials]
-description: Run custom commands on Essentials AFK Change Event
+description: Run custom commands on Essentials AFK Status Change Event
